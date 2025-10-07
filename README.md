@@ -1,4 +1,4 @@
-# DOC-LAB – Private Dentist
+# DOC-LAB  Private Dentist
 
 Welcome to *DOC-LAB*, the landing page project for a private dental clinic.
 
